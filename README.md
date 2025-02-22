@@ -19,11 +19,25 @@ This project analyzes IBM HR attrition using Kaggle data to identify trends, key
 
 ## Exploratory Data Analysis (EDA)
 
+<table>
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/4172c10e-5d71-4eaa-a81f-05a9c55f8634" width="45%"></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/802f2df5-c46b-4568-b4aa-d035761db0ab" width="45%"></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github.com/user-attachments/assets/7f5f98a8-f250-4bb2-90bf-e5c0f8ea8451" width="45%"></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/d87bbb6a-db53-4908-9fd8-8fb611af522d" width="45%"></td>
+</tr>
+</table>
+
+
 - **Attrition Rate:** 16% of employees left, primarily under age 40.
 - **Overtime:** No significant impact on attrition.
 - **Distance from Home:** Employees farther from work showed higher attrition.
 - **Departmental Trends:** HR & Sales had higher attrition compared to R&D.
 - **Gender & Salary Disparity:** Female employees in senior roles had higher attrition.
+
+  
 
 ## Predictive Modeling
 
